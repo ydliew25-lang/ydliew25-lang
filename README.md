@@ -6,6 +6,8 @@
 
 **实习意向：2027 年春季｜深圳 / 北京｜每周 5 天｜连续 3 个月以上**
 
+[查看简历（PDF）](https://github.com/ydliew25-lang/ydliew25-lang/blob/main/resume-public.pdf)
+
 我关注真实场景中的用户问题，围绕行业研究、需求梳理、PRD、交互原型和产品评测开展实践，并借助 AI 将工作方法整理成可复用的工具与流程。
 
 ## 代表作品
