@@ -35,7 +35,7 @@
 ### 03｜AI 产品工作流 Skills
 
 <!-- SKILLS:PROFILE:START -->
-将产品工作中的方法整理成 7 项可复用 Skill，明确输入材料、执行步骤、输出格式与质量要求。
+将产品工作中的方法整理成 8 项可复用 Skill，明确输入材料、执行步骤、输出格式与质量要求。
 
 **能力关键词：** AI 协作 · 结构化研究 · 工作流设计 · 质量检查
 
@@ -48,6 +48,7 @@
 | [原图构图可编辑 PPT 工作流](https://github.com/ydliew25-lang/skill-gpt/blob/main/skills/build-editable-pptx-from-references/SKILL.md) | 根据参考材料和已认可的风格，制作并检查可编辑 PPT |
 | [产品场景分镜制作](https://github.com/ydliew25-lang/skill-gpt/blob/main/create-product-storyboards/SKILL.md) | 将产品需求、用户旅程和工作流转成画面一致、可评审的场景分镜 |
 | [论文转主题学术 PPT](https://github.com/ydliew25-lang/skill-gpt/blob/main/skills/paper-to-academic-ppt/SKILL.md) | 把已有论文改编成有逐页论证、可查出处和讲述安排的学术汇报 |
+| [可编辑ppt进度轴制作skill](https://github.com/ydliew25-lang/skill-gpt/blob/main/skills/editable-ppt-progress-axis/SKILL.md) | 为 PowerPoint 添加可编辑的章节进度轴，按需同步目录、页码与章节跳转 |
 
 [进入完整 Skill 仓库](https://github.com/ydliew25-lang/skill-gpt)
 
