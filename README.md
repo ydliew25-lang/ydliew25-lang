@@ -34,21 +34,23 @@
 
 ### 03｜AI 产品工作流 Skills
 
-将产品工作中的行业研究、商业分析、图表绘制、测试设计、演示文稿制作与产品场景分镜流程整理成 6 项可复用 Skill，明确输入材料、执行步骤、输出格式与质量要求。
+<!-- SKILLS:PROFILE:START -->
+将产品工作中的方法整理成 6 项可复用 Skill，明确输入材料、执行步骤、输出格式与质量要求。
 
 **能力关键词：** AI 协作 · 结构化研究 · 工作流设计 · 质量检查
 
 | Skill | 解决的问题 |
 |---|---|
-| [具身智能合作案例增量更新器](https://github.com/ydliew25-lang/skill-gpt/tree/main/skills/embodied-industry-case-updater) | 核验、去重并更新行业合作案例，保留来源与证据边界 |
-| [零售合作模式分析](https://github.com/ydliew25-lang/skill-gpt/tree/main/skills/analyze-retail-partnerships) | 梳理零售方、品牌方、平台方及第四方的合作关系与业务机会 |
-| [绘制商业模式图](https://github.com/ydliew25-lang/skill-gpt/tree/main/skills/draw-business-model) | 将合作分析转化为资源流、服务流与资金流对应清晰的关系图 |
-| [测试用例生成](https://github.com/ydliew25-lang/skill-gpt/tree/main/skills/test-case-generator) | 将产品需求与交互流程转化为可执行、可判定的测试用例 |
-| [原图构图可编辑 PPT 工作流](https://github.com/ydliew25-lang/skill-gpt/tree/main/skills/build-editable-pptx-from-references) | 根据参考材料和已认可的风格，制作并检查可编辑 PPT |
-| [产品场景分镜制作](https://github.com/ydliew25-lang/skill-gpt/tree/main/create-product-storyboards) | 将产品需求、用户旅程和工作流转成画面一致、可评审的场景分镜 |
+| [具身智能合作案例增量更新器](https://github.com/ydliew25-lang/skill-gpt/blob/main/skills/embodied-industry-case-updater/SKILL.md) | 核验、去重并更新行业合作案例，保留来源与证据边界 |
+| [零售合作模式分析](https://github.com/ydliew25-lang/skill-gpt/blob/main/skills/analyze-retail-partnerships/SKILL.md) | 梳理零售方、品牌方、平台方及第四方的合作关系与业务机会 |
+| [绘制商业模式图](https://github.com/ydliew25-lang/skill-gpt/blob/main/skills/draw-business-model/SKILL.md) | 将合作分析转化为资源流、服务流与资金流对应清晰的关系图 |
+| [测试用例生成](https://github.com/ydliew25-lang/skill-gpt/blob/main/skills/test-case-generator/SKILL.md) | 将产品需求与交互流程转化为可执行、可判定的测试用例 |
+| [原图构图可编辑 PPT 工作流](https://github.com/ydliew25-lang/skill-gpt/blob/main/skills/build-editable-pptx-from-references/SKILL.md) | 根据参考材料和已认可的风格，制作并检查可编辑 PPT |
+| [产品场景分镜制作](https://github.com/ydliew25-lang/skill-gpt/blob/main/create-product-storyboards/SKILL.md) | 将产品需求、用户旅程和工作流转成画面一致、可评审的场景分镜 |
 
 [进入完整 Skill 仓库](https://github.com/ydliew25-lang/skill-gpt)
 
+<!-- SKILLS:PROFILE:END -->
 ## 经历概览
 
 - **灵美智能｜产品实习：** 行业研究、商业合作分析、场景需求、交互原型、现场测试与问题跟进。
