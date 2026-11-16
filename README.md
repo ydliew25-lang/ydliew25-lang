@@ -34,7 +34,7 @@
 
 ### 03｜AI 产品工作流 Skills
 
-将产品工作中的行业研究、商业分析、图表绘制、测试设计与演示文稿制作流程整理成 5 项可复用 Skill，明确输入材料、执行步骤、输出格式与质量要求。
+将产品工作中的行业研究、商业分析、图表绘制、测试设计、演示文稿制作与产品场景分镜流程整理成 6 项可复用 Skill，明确输入材料、执行步骤、输出格式与质量要求。
 
 **能力关键词：** AI 协作 · 结构化研究 · 工作流设计 · 质量检查
 
@@ -45,6 +45,7 @@
 | [绘制商业模式图](https://github.com/ydliew25-lang/skill-gpt/tree/main/skills/draw-business-model) | 将合作分析转化为资源流、服务流与资金流对应清晰的关系图 |
 | [测试用例生成](https://github.com/ydliew25-lang/skill-gpt/tree/main/skills/test-case-generator) | 将产品需求与交互流程转化为可执行、可判定的测试用例 |
 | [原图构图可编辑 PPT 工作流](https://github.com/ydliew25-lang/skill-gpt/tree/main/skills/build-editable-pptx-from-references) | 根据参考材料和已认可的风格，制作并检查可编辑 PPT |
+| [产品场景分镜制作](https://github.com/ydliew25-lang/skill-gpt/tree/main/create-product-storyboards) | 将产品需求、用户旅程和工作流转成画面一致、可评审的场景分镜 |
 
 [进入完整 Skill 仓库](https://github.com/ydliew25-lang/skill-gpt)
 
