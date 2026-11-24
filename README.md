@@ -35,7 +35,7 @@
 ### 03｜AI 产品工作流 Skills
 
 <!-- SKILLS:PROFILE:START -->
-将产品工作中的方法整理成 10 项可复用 Skill，明确输入材料、执行步骤、输出格式与质量要求。
+将产品工作中的方法整理成 11 项可复用 Skill，明确输入材料、执行步骤、输出格式与质量要求。
 
 **能力关键词：** AI 协作 · 结构化研究 · 工作流设计 · 质量检查
 
@@ -51,6 +51,7 @@
 | [可编辑ppt进度轴制作skill](https://github.com/ydliew25-lang/skill-gpt/blob/main/skills/editable-ppt-progress-axis/SKILL.md) | 为 PowerPoint 添加可编辑的章节进度轴，按需同步目录、页码与章节跳转 |
 | [商品试吃数据评注](https://github.com/ydliew25-lang/skill-gpt/blob/main/skills/annotate-product-sampling/SKILL.md) | 逐句标注商品试吃日志，按顾客、商品和现场证据复核 |
 | [商品试吃品牌反馈分析](https://github.com/ydliew25-lang/skill-gpt/blob/main/skills/analyze-sampling-feedback/SKILL.md) | 将试吃对话转为可追溯的品牌反馈，并设计下一场验证指标 |
+| [商品试吃标注数据评测](https://github.com/ydliew25-lang/skill-gpt/blob/main/skills/audit-sampling-annotations/SKILL.md) | 通过原文和标签双向核对，识别错漏并明确待裁决事项 |
 
 [进入完整 Skill 仓库](https://github.com/ydliew25-lang/skill-gpt)
 
