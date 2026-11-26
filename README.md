@@ -48,7 +48,7 @@
 | [原图构图可编辑 PPT 工作流](https://github.com/ydliew25-lang/skill-gpt/blob/main/skills/build-editable-pptx-from-references/SKILL.md) | 根据参考材料和已认可的风格，制作并检查可编辑 PPT |
 | [产品场景分镜制作](https://github.com/ydliew25-lang/skill-gpt/blob/main/create-product-storyboards/SKILL.md) | 将产品需求、用户旅程和工作流转成画面一致、可评审的场景分镜 |
 | [论文转学术主题](https://github.com/ydliew25-lang/skill-gpt/blob/main/skills/paper-to-academic-ppt/SKILL.md) | 把已有论文改编成有逐页论证、可查出处和讲述安排的学术汇报 |
-| [可编辑ppt进度轴制作skill](https://github.com/ydliew25-lang/skill-gpt/blob/main/skills/editable-ppt-progress-axis/SKILL.md) | 为 PowerPoint 添加可编辑的章节进度轴，按需同步目录、页码与章节跳转 |
+| [可编辑ppt进度轴制作](https://github.com/ydliew25-lang/skill-gpt/blob/main/skills/editable-ppt-progress-axis/SKILL.md) | 为 PowerPoint 添加可编辑的章节进度轴，按需同步目录、页码与章节跳转 |
 | [商品试吃数据评注](https://github.com/ydliew25-lang/skill-gpt/blob/main/skills/annotate-product-sampling/SKILL.md) | 逐句标注商品试吃日志，按顾客、商品和现场证据复核 |
 | [商品试吃品牌反馈分析](https://github.com/ydliew25-lang/skill-gpt/blob/main/skills/analyze-sampling-feedback/SKILL.md) | 将试吃对话转为可追溯的品牌反馈，并设计下一场验证指标 |
 | [商品试吃标注数据评测](https://github.com/ydliew25-lang/skill-gpt/blob/main/skills/audit-sampling-annotations/SKILL.md) | 通过原文和标签双向核对，识别错漏并明确待裁决事项 |
